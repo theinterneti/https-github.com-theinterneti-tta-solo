@@ -1,0 +1,5 @@
+{
+  "name": "TTA-Solo Architect Console",
+  "description": "The command interface for the TTA-Solo Neuro-Symbolic Multiverse Engine. visualize Dolt branches, Neo4j graphs, and Neural narratives.",
+  "requestFramePermissions": []
+}
